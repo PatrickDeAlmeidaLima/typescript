@@ -24,3 +24,13 @@
 * Escalabilidade: Quando se trata de projetos de grande escala, TypeScript torna mais fácil garantir a consistência e a qualidade do código, permitindo que você organize o código em módulos, use herança de classes e interfaces, e trabalhe com tipos genéricos.
 * Comunidade: TypeScript tem uma comunidade ativa e em constante crescimento, o que significa que existem muitos recursos, bibliotecas e ferramentas disponíveis para ajudá-o a se desenvolver mais rapidamente.
 * Em resumo, TypeScript é uma ótima escolha se você deseja ter um código mais seguro, escalável e fácil de manter. Além disso, ele oferece uma experiência de desenvolvimento mais rica, graças ao suporte de ferramentas de desenvolvimento e à comunidade ativa.
+
+### Instalando o TypeScript
+* Para instalar o TypeScript vamos utilizar o npm.
+* O nome do pacote é typescript.
+* E vamos adicionar de forma global com a flag -g(instalação global).
+* A partir da instalação temos como executar/compilar TS em qualquer local da nossa máquina, com o comando tsc.
+
+### Programa em TypeScript
+* Vamos criar nosso programa em TS para melhor entendimento.
+* O intuito é entender como compilar e executar o arquivo gerado pelo processo de compilação.
